@@ -1,2 +1,1 @@
-"# NorthWindSQL_Practice" 
-"# NorthWindSQL_Practice" 
+My SQL exercises
