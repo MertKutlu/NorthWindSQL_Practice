@@ -1,1 +1,1 @@
-My SQL exercises
+
